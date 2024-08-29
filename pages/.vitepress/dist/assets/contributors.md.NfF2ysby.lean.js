@@ -1,0 +1,1 @@
+import{_ as r,c as e,o as t,a4 as a}from"./chunks/framework.DpC1ZpOZ.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"contributors.md","filePath":"contributors.md"}'),h={name:"contributors.md"},n=a("",8),o=[n];function l(g,i,b,f,s,u){return t(),e("div",null,o)}const p=r(h,[["render",l]]);export{m as __pageData,p as default};
