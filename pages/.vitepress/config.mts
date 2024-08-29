@@ -88,6 +88,7 @@ export default defineConfig({
           { text: '70', link: '/HelloGitHub70' },
           { text: '71', link: '/HelloGitHub71' },
           { text: '72', link: '/HelloGitHub72' },
+          { text: '73', link: '/HelloGitHub73' },
           { text: '74', link: '/HelloGitHub74' },
           { text: '75', link: '/HelloGitHub75' },
           { text: '76', link: '/HelloGitHub76' },
