@@ -1,0 +1,11 @@
+{
+  "dependencies": {},
+  "devDependencies": {
+    "vitepress": "^1.3.4"
+  },
+  "scripts": {
+    "dev": "node generate-config.js && vitepress dev pages",
+    "build": "node generate-config.js && vitepress build pages",
+    "preview": "node generate-config.js && vitepress preview pages"
+  }
+}
