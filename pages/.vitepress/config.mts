@@ -115,6 +115,11 @@ export default defineConfig({
           { text: '97', link: '/HelloGitHub97' },
           { text: '98', link: '/HelloGitHub98' },
           { text: '99', link: '/HelloGitHub99' },
+          { text: 'api-examples', link: '/api-examples' },
+          { text: 'bookmark', link: '/bookmark' },
+          { text: 'contributors', link: '/contributors' },
+          { text: 'index', link: '/index' },
+          { text: 'markdown-examples', link: '/markdown-examples' },
 
       ]
       },
