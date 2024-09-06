@@ -5,7 +5,7 @@ const path = require("path");
 let md_dir = "pages";
 const files = fs
   .readdirSync(md_dir)
-  .filter((file) => file.startsWith("HelloGitHub"));
+  .filter((file) => file.endsWith(".md"));
 // .filter((file) => file.startsWith("HelloGithub") && file.endsWith(".md"));
 
 let config = `
