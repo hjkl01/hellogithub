@@ -3,10 +3,13 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
+  name: "HelloGitHub Project"
   text: "A VitePress Site"
-  tagline: My great project tagline
+  tagline: https://github.com/521xueweihan/HelloGitHub
   actions:
+    - theme: brand
+      text: 《HelloGitHub》第 102 期
+      link: /HelloGitHub102
     - theme: brand
       text: Markdown Examples
       link: /markdown-examples

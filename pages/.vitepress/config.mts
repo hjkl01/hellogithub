@@ -26,6 +26,7 @@ export default defineConfig({
           { text: '10', link: '/HelloGitHub10' },
           { text: '100', link: '/HelloGitHub100' },
           { text: '101', link: '/HelloGitHub101' },
+          { text: '102', link: '/HelloGitHub102' },
           { text: '11', link: '/HelloGitHub11' },
           { text: '12', link: '/HelloGitHub12' },
           { text: '13', link: '/HelloGitHub13' },
@@ -116,8 +117,6 @@ export default defineConfig({
           { text: '98', link: '/HelloGitHub98' },
           { text: '99', link: '/HelloGitHub99' },
           { text: 'api-examples', link: '/api-examples' },
-          { text: 'bookmark', link: '/bookmark' },
-          { text: 'contributors', link: '/contributors' },
           { text: 'index', link: '/index' },
           { text: 'markdown-examples', link: '/markdown-examples' },
 
