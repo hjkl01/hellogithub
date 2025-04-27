@@ -1,5 +1,5 @@
 # 《HelloGitHub》第 83 期
-> 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
+> 兴趣是最好的老师，**HelloGitHub** 让你对开源感兴趣！
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
@@ -105,7 +105,7 @@ int main(){
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/1690480.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Go 项目
-11、[Dragonfly2](https://hellogithub.com/periodical/statistics/click?target=https://github.com/dragonflyoss/Dragonfly2)：一款基于 P2P 的智能镜像和文件分发工具。它提供了高效、稳定、安全的基于 P2P 技术的文件分发和镜像加速系统，能够提高大规模文件传输的效率和速率，最大限度地利用网络带宽，适用于应用分发、缓存分发、日志分发和镜像分发等领域。来自 [@Gaius](https://hellogithub.com/user/Jn3TOfINLBjmQUS) 的分享
+11、[dragonfly](https://hellogithub.com/periodical/statistics/click?target=https://github.com/dragonflyoss/dragonfly)：一款基于 P2P 的智能镜像和文件分发工具。它提供了高效、稳定、安全的基于 P2P 技术的文件分发和镜像加速系统，能够提高大规模文件传输的效率和速率，最大限度地利用网络带宽，适用于应用分发、缓存分发、日志分发和镜像分发等领域。来自 [@Gaius](https://hellogithub.com/user/Jn3TOfINLBjmQUS) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/309874357.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -231,7 +231,11 @@ await $`mkdir /tmp/${name}`
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/464981831.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Python 项目
-24、[edgedb](https://hellogithub.com/periodical/statistics/click?target=https://github.com/edgedb/edgedb)：一款采用图-关系模型的新型开源数据库。一个底层由 PostgreSQL 提供支持的开源数据库，在兼容关系数据库特性的同时，结合了 ORM 的声明模式和 GraphQL 式的深度查询。自带 WebUI 界面，支持在线编辑数据、查询、关系可视化等功能。
+24、[eg](https://hellogithub.com/periodical/statistics/click?target=https://github.com/srsudar/eg)：常用的 Linux 命令示例查询工具。它提供了 Linux 命令的常见用法，不仅使用方便而且示例简洁实用。
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/31691072.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+25、[gel](https://hellogithub.com/periodical/statistics/click?target=https://github.com/geldata/gel)：一款采用图-关系模型的新型开源数据库。一个底层由 PostgreSQL 提供支持的开源数据库，在兼容关系数据库特性的同时，结合了 ORM 的声明模式和 GraphQL 式的深度查询。自带 WebUI 界面，支持在线编辑数据、查询、关系可视化等功能。
 ```
 type Person {
   required property name -> str;
@@ -244,10 +248,6 @@ type Movie {
 ```
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/95817032.jpg' style="max-width:80%; max-height=80%;"></img></p>
-
-25、[eg](https://hellogithub.com/periodical/statistics/click?target=https://github.com/srsudar/eg)：常用的 Linux 命令示例查询工具。它提供了 Linux 命令的常见用法，不仅使用方便而且示例简洁实用。
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/31691072.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 26、[manim](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ManimCommunity/manim)：用于创建数学动画的 Python 框架。它可以用简单的代码制作出精美的数学动画，通过动画的方式直观地解释一些复杂的数学问题。来自 [@databook](https://hellogithub.com/user/1qC4w2Ey6bu0fgR) 的分享
 ```python
@@ -268,7 +268,7 @@ class SquareToCircle(Scene):
 # 运行：manim -p -ql example.py SquareToCircle
 ```
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/265122478.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/83/265122478.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 27、[sunfish](https://hellogithub.com/periodical/statistics/click?target=https://github.com/thomasahle/sunfish)：100 多行代码的 Python 国际象棋引擎。一个仅用 Python 标准库和 131 行代码实现的命令行国际象棋游戏。它注释丰富结构清晰，核心代码由国际象棋逻辑、策略搜索和用户界面三个部分组成。
 
@@ -414,8 +414,7 @@ $ curl http://localhost:5000/predictions -X POST \
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
-        <a href="https://www.ucloud.cn/site/active/gpu.html?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
+        <a href="https://www.compshare.cn/?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
           <sub>UCloud</sub><br>
           <sub>超值的GPU云服务</sub>
         </a>

@@ -1,5 +1,5 @@
 # 《HelloGitHub》第 44 期
-> 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
+> 兴趣是最好的老师，**HelloGitHub** 让你对开源感兴趣！
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
@@ -210,7 +210,7 @@ do {
 29、[funNLP](https://hellogithub.com/periodical/statistics/click?target=https://github.com/fighting41love/funNLP)：中文词库的集合。可用于：敏感词、语言检测、拆字词典等
 
 
-30、[git-quick-stats](https://hellogithub.com/periodical/statistics/click?target=https://github.com/arzzen/git-quick-stats)：项目的 git 提交记录展示和统计的工具。支持：不同时间维度和用户名的统计、近期提交的概览等
+30、[git-quick-stats](https://hellogithub.com/periodical/statistics/click?target=https://github.com/git-quick-stats/git-quick-stats)：项目的 git 提交记录展示和统计的工具。支持：不同时间维度和用户名的统计、近期提交的概览等
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/44/79046698.png' style="max-width:80%; max-height=80%;"></img></p>
@@ -252,8 +252,7 @@ do {
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
-        <a href="https://www.ucloud.cn/site/active/gpu.html?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
+        <a href="https://www.compshare.cn/?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
           <sub>UCloud</sub><br>
           <sub>超值的GPU云服务</sub>
         </a>

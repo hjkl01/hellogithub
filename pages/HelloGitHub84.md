@@ -1,5 +1,5 @@
 # 《HelloGitHub》第 84 期
-> 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
+> 兴趣是最好的老师，**HelloGitHub** 让你对开源感兴趣！
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
@@ -68,7 +68,7 @@ xdotool selectwindow windowclose
 10、[rr](https://hellogithub.com/periodical/statistics/click?target=https://github.com/rr-debugger/rr)：Linux 上的轻量级 C/C++ 调试工具。这是一款 Linux 上的轻量级调试 C/C++ 代码的工具，支持录制、重放和反向执行等操作，提供了一个可反复调试的环境，大大提升了调试效率。
 
 ### Go 项目
-11、[alist](https://hellogithub.com/periodical/statistics/click?target=https://github.com/alist-org/alist)：一款支持多种存储的文件列表程序。它支持一键安装，能够方便地聚合散落在各处的文件，轻松实现文件在线查看服务。支持包括本地存储、阿里云盘、百度网盘、OneDrive 、WebDAV 等多种存储方式。来自 [@孤胆枪手](https://hellogithub.com/user/i1wAIyo6P3NXkxm) 的分享
+11、[alist](https://hellogithub.com/periodical/statistics/click?target=https://github.com/AlistGo/alist)：一款支持多种存储的文件列表程序。它支持一键安装，能够方便地聚合散落在各处的文件，轻松实现文件在线查看服务。支持包括本地存储、阿里云盘、百度网盘、OneDrive 、WebDAV 等多种存储方式。来自 [@孤胆枪手](https://hellogithub.com/user/i1wAIyo6P3NXkxm) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/323965659.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -191,7 +191,7 @@ john = table.find_one(name='John Doe')
 
 27、[secretflow](https://hellogithub.com/periodical/statistics/click?target=https://github.com/secretflow/secretflow)：蚂蚁开源的隐私计算框架。隐私计算即通过技术的手段实现数据在参与方可用不可见，让数据在安全和不泄露隐私的情况下流通、开放。该项目采用 Python 语言编写，支持包括 MPC、FL、TEE、HE、DP 在内的多种主流隐私计算技术。来自 [@vector](https://hellogithub.com/user/UBnaedx6ch7KzF4) 的分享
 
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/481901631.png' style="max-width:80%; max-height=80%;"></img></p>
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/481901631.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 28、[shynet](https://hellogithub.com/periodical/statistics/click?target=https://github.com/milesmcc/shynet)：极简的网站分析平台。这是一个基于 Django 构建的网站分析平台，它很小、够用、界面友好、不追踪 cookie、支持多用户，追踪脚本不到 1KB。
 
@@ -241,7 +241,7 @@ john = table.find_one(name='John Doe')
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/382787545.png' style="max-width:80%; max-height=80%;"></img></p>
 
-37、[llama.cpp](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ggerganov/llama.cpp)：在笔记本上运行 LLaMA 大模型。该项目实现了在 CPU 上流畅运行 LLaMA 模型，支持 macOS、Linux、Windows 操作系统。
+37、[llama.cpp](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ggml-org/llama.cpp)：在笔记本上运行 LLaMA 大模型。该项目实现了在 CPU 上流畅运行 LLaMA 模型，支持 macOS、Linux、Windows 操作系统。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/84/612354784.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -294,8 +294,7 @@ john = table.find_one(name='John Doe')
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
-        <a href="https://www.ucloud.cn/site/active/gpu.html?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
+        <a href="https://www.compshare.cn/?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
           <sub>UCloud</sub><br>
           <sub>超值的GPU云服务</sub>
         </a>

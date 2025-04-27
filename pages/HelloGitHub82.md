@@ -1,5 +1,5 @@
 # 《HelloGitHub》第 82 期
-> 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
+> 兴趣是最好的老师，**HelloGitHub** 让你对开源感兴趣！
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
@@ -29,7 +29,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/6041301.png' style="max-width:80%; max-height=80%;"></img></p>
 
-3、[ZSWatch](https://hellogithub.com/periodical/statistics/click?target=https://github.com/jakkra/ZSWatch)：自制开源智能手表。该项目是基于开源 Zephyr 的智能手表，设备包含了一个分辨率为 240x240 的 IPS TFT 圆形屏幕和 3 个按钮(上一页/下一页/进入)，支持计步、血氧仪、心率仪、蓝牙等功能。
+3、[ZSWatch](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ZSWatch/ZSWatch)：自制开源智能手表。该项目是基于开源 Zephyr 的智能手表，设备包含了一个分辨率为 240x240 的 IPS TFT 圆形屏幕和 3 个按钮(上一页/下一页/进入)，支持计步、血氧仪、心率仪、蓝牙等功能。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/529594820.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -229,7 +229,7 @@ h_flow() # "Hello, World! I'm HelloGitHub!"
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/575340621.png' style="max-width:80%; max-height=80%;"></img></p>
 
-31、[gitui](https://hellogithub.com/periodical/statistics/click?target=https://github.com/extrawurst/gitui)：带界面的 Git 命令行工具。该项目为 git 提供了终端界面，让用户可以更加顺畅地使用 git。交互式的操作提示，让你无需再记忆大量的 git 命令。
+31、[gitui](https://hellogithub.com/periodical/statistics/click?target=https://github.com/gitui-org/gitui)：带界面的 Git 命令行工具。该项目为 git 提供了终端界面，让用户可以更加顺畅地使用 git。交互式的操作提示，让你无需再记忆大量的 git 命令。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/82/247725846.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -335,8 +335,7 @@ git clone https://github.com/Botspot/pi-apps
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
-        <a href="https://www.ucloud.cn/site/active/gpu.html?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
+        <a href="https://www.compshare.cn/?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
           <sub>UCloud</sub><br>
           <sub>超值的GPU云服务</sub>
         </a>

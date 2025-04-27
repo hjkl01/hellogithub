@@ -1,5 +1,5 @@
 # 《HelloGitHub》第 05 期
-> 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
+> 兴趣是最好的老师，**HelloGitHub** 让你对开源感兴趣！
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
@@ -91,7 +91,7 @@ $pinyin->convert('带着希望去旅行，比到达终点更美好', PINYIN_ASCI
 11、[security-guide-for-developers](https://hellogithub.com/periodical/statistics/click?target=https://github.com/FallibleInc/security-guide-for-developers)：这是一个实际工作中会用到的安全 checklist。作为一个 real world web developer 你应该在实际工作中不断地谨慎使用这套列表，减少安全隐患。[中文翻译版](https://github.com/FallibleInc/security-guide-for-developers/blob/master/README-zh.md)
 
 
-12、[Solve-App-Store-Review-Problem](https://hellogithub.com/periodical/statistics/click?target=https://github.com/wg689/Solve-App-Store-Review-Problem)：App Store 审核未通过的解决方案。
+12、[Solve-App-Store-Review-Problem](https://hellogithub.com/periodical/statistics/click?target=https://github.com/zhichengfalv/Solve-App-Store-Review-Problem)：App Store 审核未通过的解决方案。
 
 
 
@@ -115,8 +115,7 @@ $pinyin->convert('带着希望去旅行，比到达终点更美好', PINYIN_ASCI
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
-        <a href="https://www.ucloud.cn/site/active/gpu.html?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
+        <a href="https://www.compshare.cn/?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
           <sub>UCloud</sub><br>
           <sub>超值的GPU云服务</sub>
         </a>

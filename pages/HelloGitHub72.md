@@ -1,5 +1,5 @@
 # 《HelloGitHub》第 72 期
-> 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
+> 兴趣是最好的老师，**HelloGitHub** 让你对开源感兴趣！
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
@@ -328,7 +328,7 @@ textdistance.hamming.normalized_similarity('test', 'text')
 27、[deep-learning-for-image-processing](https://hellogithub.com/periodical/statistics/click?target=https://github.com/WZMIAOMIAO/deep-learning-for-image-processing)：深度学习在图像处理方面的教程。该项目配以视频的方式介绍知识点和搭建方法，对应的 PTT 在 course_ppt 目录下
 
 
-28、[jina](https://hellogithub.com/periodical/statistics/click?target=https://github.com/jina-ai/jina)：一款易用的神经搜索框架。神经搜索是指用非结构化数据，搜索非结构化数据。Jina 简化了神经搜索系统的搭建流程，使开发者可以快速构建以图搜图、以文字搜图、问答机器人、照片去重、海量标签分类等应用
+28、[serve](https://hellogithub.com/periodical/statistics/click?target=https://github.com/jina-ai/serve)：一款易用的神经搜索框架。神经搜索是指用非结构化数据，搜索非结构化数据。Jina 简化了神经搜索系统的搭建流程，使开发者可以快速构建以图搜图、以文字搜图、问答机器人、照片去重、海量标签分类等应用
 ```python
 from docarray import Document, DocumentArray
 from jina import Executor, Flow, requests
@@ -405,8 +405,7 @@ class PreprocImg(Executor):
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
-        <a href="https://www.ucloud.cn/site/active/gpu.html?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
+        <a href="https://www.compshare.cn/?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
           <sub>UCloud</sub><br>
           <sub>超值的GPU云服务</sub>
         </a>

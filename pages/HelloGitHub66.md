@@ -1,5 +1,5 @@
 # 《HelloGitHub》第 66 期
-> 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
+> 兴趣是最好的老师，**HelloGitHub** 让你对开源感兴趣！
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
@@ -228,7 +228,7 @@ static void take_gil(PyThreadState *tstate)
 25、[mypy](https://hellogithub.com/periodical/statistics/click?target=https://github.com/python/mypy)：Python 静态类型检查库。既然 Python 是一门动态类型语言，为啥还要检查类型呢？有了静态类型检测则无需运行代码，就可以发现程序中潜在的错误。还可以加入到 `git hook` 中，实现在提交代码前自动检查。详情查看[这篇文章](https://mp.weixin.qq.com/s/K4RGr5NqMFAUKtB0KFPV5g)
 
 
-26、[Pokemon-Terminal](https://hellogithub.com/periodical/statistics/click?target=https://github.com/LazoCoder/Pokemon-Terminal)：适用于多种终端的口袋妖怪主题工具。支持 iTerm2、ConEmu、Terminology、Windows 的终端，已经收集了 719 个小精灵
+26、[Pokemon-Terminal](https://hellogithub.com/periodical/statistics/click?target=https://github.com/LazoVelko/Pokemon-Terminal)：适用于多种终端的口袋妖怪主题工具。支持 iTerm2、ConEmu、Terminology、Windows 的终端，已经收集了 719 个小精灵
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/66/88655352.gif' style="max-width:80%; max-height=80%;"></img></p>
@@ -322,8 +322,7 @@ static void take_gil(PyThreadState *tstate)
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
-        <a href="https://www.ucloud.cn/site/active/gpu.html?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
+        <a href="https://www.compshare.cn/?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
           <sub>UCloud</sub><br>
           <sub>超值的GPU云服务</sub>
         </a>

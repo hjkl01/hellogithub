@@ -1,5 +1,5 @@
 # 《HelloGitHub》第 74 期
-> 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
+> 兴趣是最好的老师，**HelloGitHub** 让你对开源感兴趣！
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
@@ -302,7 +302,7 @@ xonsh：xxh anyhost +s xonsh
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/74/462900266.png' style="max-width:80%; max-height=80%;"></img></p>
 
-42、[Thanks-Mirror](https://hellogithub.com/periodical/statistics/click?target=https://github.com/eryajf/Thanks-Mirror)：国内公共仓库镜像的集合。该项目包含开发常用的库、软件、系统镜像地址以及使用的方法
+42、[Thanks-Mirror](https://hellogithub.com/periodical/statistics/click?target=https://github.com/opsre/Thanks-Mirror)：国内公共仓库镜像的集合。该项目包含开发常用的库、软件、系统镜像地址以及使用的方法
 
 
 43、[wechat-report](https://hellogithub.com/periodical/statistics/click?target=https://github.com/myth984/wechat-report)：自制微信聊天年度报告。教你如何生成和女朋友微信聊天记录的年度报告项目
@@ -345,8 +345,7 @@ xonsh：xxh anyhost +s xonsh
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
-        <a href="https://www.ucloud.cn/site/active/gpu.html?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
+        <a href="https://www.compshare.cn/?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
           <sub>UCloud</sub><br>
           <sub>超值的GPU云服务</sub>
         </a>

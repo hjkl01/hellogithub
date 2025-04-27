@@ -1,5 +1,5 @@
 # 《HelloGitHub》第 57 期
-> 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
+> 兴趣是最好的老师，**HelloGitHub** 让你对开源感兴趣！
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
@@ -201,7 +201,7 @@ $ publish new
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/230532062.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### 人工智能
-26、[pulse](https://hellogithub.com/periodical/statistics/click?target=https://github.com/adamian98/pulse)：根据包含马赛克的人脸图像，生成一张相似容貌的结果。注意不是复原哦，仅可用于人脸
+26、[pulse](https://hellogithub.com/periodical/statistics/click?target=https://github.com/alex-damian/pulse)：根据包含马赛克的人脸图像，生成一张相似容貌的结果。注意不是复原哦，仅可用于人脸
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/57/265645902.gif' style="max-width:80%; max-height=80%;"></img></p>
@@ -277,8 +277,7 @@ HELLO
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
-        <a href="https://www.ucloud.cn/site/active/gpu.html?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
+        <a href="https://www.compshare.cn/?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
           <sub>UCloud</sub><br>
           <sub>超值的GPU云服务</sub>
         </a>

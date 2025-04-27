@@ -1,5 +1,5 @@
 # 《HelloGitHub》第 79 期
-> 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
+> 兴趣是最好的老师，**HelloGitHub** 让你对开源感兴趣！
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
@@ -333,7 +333,7 @@ code2flow 文件
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/79/47140131.png' style="max-width:80%; max-height=80%;"></img></p>
 
-40、[testssl.sh](https://hellogithub.com/periodical/statistics/click?target=https://github.com/drwetter/testssl.sh)：测试 TLS/SSL 加密的工具。它可以用来检查 Web 服务是否支持 TLS/SSL 加密和协议，以及存在的缺陷。
+40、[testssl.sh](https://hellogithub.com/periodical/statistics/click?target=https://github.com/testssl/testssl.sh)：测试 TLS/SSL 加密的工具。它可以用来检查 Web 服务是否支持 TLS/SSL 加密和协议，以及存在的缺陷。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/79/21385916.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -367,8 +367,7 @@ code2flow 文件
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
-        <a href="https://www.ucloud.cn/site/active/gpu.html?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
+        <a href="https://www.compshare.cn/?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
           <sub>UCloud</sub><br>
           <sub>超值的GPU云服务</sub>
         </a>

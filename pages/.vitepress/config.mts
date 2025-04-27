@@ -4,6 +4,18 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "My Awesome Project",
   description: "A VitePress Site",
+  vite: {
+    server: {
+      host: '0.0.0.0', // 监听所有网络接口
+      port: 3000,      // 指定端口
+      strictPort: true, // 如果端口被占用则退出
+      allowedHosts: [
+        'arch.hjkl01.cn',
+        'localhost',
+        '127.0.0.1'
+      ]
+    }
+  },
   themeConfig: {
     nav: [
       { text: 'HelloGithub', link: '/HelloGitHub100.html' },
@@ -27,6 +39,12 @@ export default defineConfig({
           { text: '100', link: '/HelloGitHub100' },
           { text: '101', link: '/HelloGitHub101' },
           { text: '102', link: '/HelloGitHub102' },
+          { text: '103', link: '/HelloGitHub103' },
+          { text: '104', link: '/HelloGitHub104' },
+          { text: '105', link: '/HelloGitHub105' },
+          { text: '106', link: '/HelloGitHub106' },
+          { text: '107', link: '/HelloGitHub107' },
+          { text: '108', link: '/HelloGitHub108' },
           { text: '11', link: '/HelloGitHub11' },
           { text: '12', link: '/HelloGitHub12' },
           { text: '13', link: '/HelloGitHub13' },

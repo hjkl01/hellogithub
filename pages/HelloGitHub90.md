@@ -1,5 +1,5 @@
 # 《HelloGitHub》第 90 期
-> 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
+> 兴趣是最好的老师，**HelloGitHub** 让你对开源感兴趣！
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
@@ -71,7 +71,7 @@ SELECT * FROM 'HelloGitHub.parquet';
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/90/221849341.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
-12、[carbon](https://hellogithub.com/periodical/statistics/click?target=https://github.com/golang-module/carbon)：一个对开发者友好的 Go 时间处理库。这是一个功能丰富、容易上手的 Go 时间库，支持时间转换、时间差、时间旅行、星座、季节、农历、多语言等功能。
+12、[carbon](https://hellogithub.com/periodical/statistics/click?target=https://github.com/dromara/carbon)：一个对开发者友好的 Go 时间处理库。这是一个功能丰富、容易上手的 Go 时间库，支持时间转换、时间差、时间旅行、星座、季节、农历、多语言等功能。
 ```go
 lang := carbon.NewLanguage()
 lang.SetLocale("zh-CN")
@@ -91,7 +91,7 @@ c.Now().AddHours(1).Constellation() // 狮子座
 c.Now().AddHours(1).Season() // 夏季
 ```
 
-13、[nezha](https://hellogithub.com/periodical/statistics/click?target=https://github.com/naiba/nezha)：国产的轻量级服务器监控工具。这是一款名为“哪吒”的服务器监控面板，它安装简单、开箱即用，支持监控多个服务器的系统状态、SSL 证书状态、报警通知、流量监控、设置定时任务等功能，适用于 Linux、Windows、macOS、OpenWRT 等主流系统。来自 [@两双筷子sqldc](https://hellogithub.com/user/5dGtvaZ6H3L4QMY) 的分享
+13、[nezha](https://hellogithub.com/periodical/statistics/click?target=https://github.com/nezhahq/nezha)：国产的轻量级服务器监控工具。这是一款名为“哪吒”的服务器监控面板，它安装简单、开箱即用，支持监控多个服务器的系统状态、SSL 证书状态、报警通知、流量监控、设置定时任务等功能，适用于 Linux、Windows、macOS、OpenWRT 等主流系统。来自 [@两双筷子sqldc](https://hellogithub.com/user/5dGtvaZ6H3L4QMY) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/90/220588935.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -323,8 +323,7 @@ print(grad(grad(grad(tanh)))(1.0))
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
-        <a href="https://www.ucloud.cn/site/active/gpu.html?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
+        <a href="https://www.compshare.cn/?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
           <sub>UCloud</sub><br>
           <sub>超值的GPU云服务</sub>
         </a>

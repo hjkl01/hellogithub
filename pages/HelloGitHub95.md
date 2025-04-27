@@ -1,5 +1,5 @@
 # 《HelloGitHub》第 95 期
-> 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
+> 兴趣是最好的老师，**HelloGitHub** 让你对开源感兴趣！
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
@@ -186,7 +186,7 @@ def get_weather(place):
     return owm.weather_at_place(place).get_weather()
 ```
 
-22、[Ciphey](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Ciphey/Ciphey)：自动解密/解码各种加密算法的工具。使用该项目时，你只需输入加密的文本，无需提供具体的加密类型，它就可以在 3 秒或更短的时间内自动解密大多数的加密文本。这个项目支持 50 多种常见的加密/编码方式，包括二进制、base64、哈希和凯撒密码等。
+22、[Ciphey](https://hellogithub.com/periodical/statistics/click?target=https://github.com/bee-san/Ciphey)：自动解密/解码各种加密算法的工具。使用该项目时，你只需输入加密的文本，无需提供具体的加密类型，它就可以在 3 秒或更短的时间内自动解密大多数的加密文本。这个项目支持 50 多种常见的加密/编码方式，包括二进制、base64、哈希和凯撒密码等。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img3/master/hellogithub/95/197261780.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -246,7 +246,7 @@ client.index('movies').add_documents([
 
 33、[nn-zero-to-hero](https://hellogithub.com/periodical/statistics/click?target=https://github.com/karpathy/nn-zero-to-hero)：从零到神经网络高手。这是一门从基础开始的神经网络课程，包含视频、练习和配套源码，帮助初学者初逐步掌握神经网络的基本概念，并通过实例代码来加深理解。
 
-34、[pandas-ai](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Sinaptik-AI/pandas-ai)：数据分析对话化的开源库。该项目将 AIGC 和数据分析相结合，让用户可以通过自然语言向自己的数据进行提问，并获得相应的回答。首先，需要将数据以 pandas 的方式进行导入，然后配置好 OpenAI TOKEN 就可以开始通过对话和绘制图表等方式与数据进行交互，而无需编写代码。
+34、[pandas-ai](https://hellogithub.com/periodical/statistics/click?target=https://github.com/sinaptik-ai/pandas-ai)：数据分析对话化的开源库。该项目将 AIGC 和数据分析相结合，让用户可以通过自然语言向自己的数据进行提问，并获得相应的回答。首先，需要将数据以 pandas 的方式进行导入，然后配置好 OpenAI TOKEN 就可以开始通过对话和绘制图表等方式与数据进行交互，而无需编写代码。
 ```python
 import pandas as pd
 from pandasai import SmartDataframe
@@ -317,8 +317,7 @@ df.chat('Which are the 5 happiest countries?')
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
-        <a href="https://www.ucloud.cn/site/active/gpu.html?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
+        <a href="https://www.compshare.cn/?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
           <sub>UCloud</sub><br>
           <sub>超值的GPU云服务</sub>
         </a>

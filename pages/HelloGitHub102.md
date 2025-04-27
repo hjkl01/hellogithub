@@ -1,5 +1,5 @@
 # 《HelloGitHub》第 102 期
-> 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
+> 兴趣是最好的老师，**HelloGitHub** 让你对开源感兴趣！
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
@@ -25,7 +25,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/102/312430210.png' style="max-width:80%; max-height=80%;"></img></p>
 
-2、[FlappyBird](https://hellogithub.com/periodical/statistics/click?target=https://github.com/VadimBoev/FlappyBird)：仅 100KB 的愤怒小鸟游戏。该项目是用 C 语言编写的愤怒小鸟游戏（Flappy Bird），它运行流畅、安装包不到 100KB，适用于 Android 5.1 及以上系统。
+2、[FlappyBird](https://hellogithub.com/periodical/statistics/click?target=https://github.com/VadimBoev/FlappyBird)：仅 100KB 的像素鸟游戏。该项目是用 C 语言编写的飞翔的小鸟游戏（Flappy Bird），它运行流畅、安装包不到 100KB，适用于 Android 5.1 及以上系统。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/102/857252347.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -275,7 +275,7 @@ output = compiled_model({0: example.numpy()})
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub101.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub101.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub103.md">『下一期』</a>
 </p>
 
 ---
@@ -293,8 +293,7 @@ output = compiled_model({0: example.numpy()})
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
-        <a href="https://www.ucloud.cn/site/active/gpu.html?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
+        <a href="https://www.compshare.cn/?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
           <sub>UCloud</sub><br>
           <sub>超值的GPU云服务</sub>
         </a>

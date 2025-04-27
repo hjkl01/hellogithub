@@ -1,5 +1,5 @@
 # 《HelloGitHub》第 98 期
-> 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
+> 兴趣是最好的老师，**HelloGitHub** 让你对开源感兴趣！
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
@@ -79,7 +79,7 @@ fmt.Printf("This was touched %s.", humanize.Time(someTimeInstance)) // This was 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/98/774468912.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Java 项目
-12、[Acode](https://hellogithub.com/periodical/statistics/click?target=https://github.com/deadlyjack/Acode)：Android 手机上的代码编辑器。这是一款专为 Android 设备设计的代码编辑工具，它是轻量级的 Web IDE，具有即时预览、控制台和丰富的插件等特点，支持 HTML、Python、Java、JavaScript 等多种编程语言。来自 [@虾华](https://hellogithub.com/user/ckl6eKxwCuRyVJI) 的分享
+12、[Acode](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Acode-Foundation/Acode)：Android 手机上的代码编辑器。这是一款专为 Android 设备设计的代码编辑工具，它是轻量级的 Web IDE，具有即时预览、控制台和丰富的插件等特点，支持 HTML、Python、Java、JavaScript 等多种编程语言。来自 [@虾华](https://hellogithub.com/user/ckl6eKxwCuRyVJI) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/98/217150613.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -107,7 +107,6 @@ Column a = (Column) equalsTo.getLeftExpression();
 Column b = (Column) equalsTo.getRightExpression();
 Assertions.assertEquals("a", a.getColumnName());
 Assertions.assertEquals("b", b.getColumnName());
-}
 ```
 
 15、[odc](https://hellogithub.com/periodical/statistics/click?target=https://github.com/oceanbase/odc)：企业级数据库协同开发平台。该项目是提供数据库协同开发和数据管理的平台，专为提升 SQL 开发效率而设计。它基于 Spring Boot 和 Electron 构建，提供了 Web 和桌面客户端，支持 SQL 规范检查、变更回滚、数据生命周期管理、数据脱敏和操作审计等功能，兼容 OceanBase、Oracle、MySQL 和 Doris 等多种数据源。来自 [@XiaoYangGzeyP](https://hellogithub.com/user/QfYG9d5Kt2nqWPJ) 的分享
@@ -286,8 +285,7 @@ print(response)
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
-        <a href="https://www.ucloud.cn/site/active/gpu.html?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
+        <a href="https://www.compshare.cn/?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
           <sub>UCloud</sub><br>
           <sub>超值的GPU云服务</sub>
         </a>

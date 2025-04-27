@@ -1,5 +1,5 @@
 # 《HelloGitHub》第 70 期
-> 兴趣是最好的老师，**HelloGitHub** 让你对编程感兴趣！
+> 兴趣是最好的老师，**HelloGitHub** 让你对开源感兴趣！
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
@@ -143,7 +143,7 @@ octosql "SELECT customer_id, SUM(amount)
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/70/173582015.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Java 项目
-15、[agrona](https://hellogithub.com/periodical/statistics/click?target=https://github.com/real-logic/agrona)：提供了用于创建高性能应用的数据结构和实用方法的库。它将 Java 标准库中的数据结构进行包装，避免了 Java 自动装箱。比如提供的队列使用了填充字节的方式，避免头尾结点进入同一缓冲行，来提高队列出队入队的性能。整个项目代码量不多注释完善、代码风格清晰，抛开使用来讲也是一个值得学习的项目
+15、[agrona](https://hellogithub.com/periodical/statistics/click?target=https://github.com/aeron-io/agrona)：提供了用于创建高性能应用的数据结构和实用方法的库。它将 Java 标准库中的数据结构进行包装，避免了 Java 自动装箱。比如提供的队列使用了填充字节的方式，避免头尾结点进入同一缓冲行，来提高队列出队入队的性能。整个项目代码量不多注释完善、代码风格清晰，抛开使用来讲也是一个值得学习的项目
 
 
 16、[maven-mvnd](https://hellogithub.com/periodical/statistics/click?target=https://github.com/apache/maven-mvnd)：Apache Maven 团队开源的更快的构建工具。因为内嵌了 Maven 所以可以丝滑地从 Maven 切换为 mvnd，而且它相较于 Maven 启动速度更快、使用的内存更少、编译花费的时间更少
@@ -173,7 +173,7 @@ octosql "SELECT customer_id, SUM(amount)
 ```
 
 
-20、[lottery](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Aras-ax/lottery)：年会抽奖程序。基于 Express + Three.js 的 3D 球体抽奖项目，能够自定义文字、图片和抽奖规则，还支持一键导入抽奖人员和导出抽奖结果
+20、[lottery](https://hellogithub.com/periodical/statistics/click?target=https://github.com/moshang-ax/lottery)：年会抽奖程序。基于 Express + Three.js 的 3D 球体抽奖项目，能够自定义文字、图片和抽奖规则，还支持一键导入抽奖人员和导出抽奖结果
 
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/70/168259404.gif' style="max-width:80%; max-height=80%;"></img></p>
@@ -344,8 +344,7 @@ end
   <thead>
     <tr>
       <th align="center" style="width: 80px;">
-        <a href="https://www.ucloud.cn/site/active/gpu.html?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">
-          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
+        <a href="https://www.compshare.cn/?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display">          <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/ucloud.png" width="60px"><br>
           <sub>UCloud</sub><br>
           <sub>超值的GPU云服务</sub>
         </a>

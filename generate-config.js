@@ -14,6 +14,18 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "My Awesome Project",
   description: "A VitePress Site",
+  vite: {
+    server: {
+      host: '0.0.0.0', // 监听所有网络接口
+      port: 3000,      // 指定端口
+      strictPort: true, // 如果端口被占用则退出
+      allowedHosts: [
+        'arch.hjkl01.cn',
+        'localhost',
+        '127.0.0.1'
+      ]
+    }
+  },
   themeConfig: {
     nav: [
       { text: 'HelloGithub', link: '/HelloGitHub100.html' },
